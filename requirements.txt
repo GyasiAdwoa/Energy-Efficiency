@@ -1,0 +1,10 @@
+#Requirement libiries
+
+python==3.9.9
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+ploty
+scipy
